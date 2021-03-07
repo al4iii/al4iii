@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### My name is Aleksandr Danilin. I'm a beginner Frond-end developer from Mogilev, Belarus.
 
-#### 🌱 I’m currently learning Languages and Technologies
+#### 🌱 I’m currently learning Languages and Technologies:
 * ![HTML5](https://img.shields.io/badge/-HTML5%20-blue?style=for-the-badle&logo=html5)
 * ![CSS](https://img.shields.io/badge/-CSS3-blue?style=for-the-badle&logo=css3)
 * ![JS](https://img.shields.io/badge/-JS-yellow?style=for-the-badle&logo=JavaScript)
@@ -16,8 +16,8 @@
 ##### I'm 37 years old & I'm from Mogilev, Belarus. I've been studying frond-end since September 2020. I am currently studying the React library and I think it is a wonderful library. I like it!) If you want to offer me cooperation, please write to me, because I need a job.
 
 #### 📫 How to reach me:
-##### Mail me: al4icrux@gmail.com
-##### Telegram: @al4i
+** Mail me: al4icrux@gmail.com
+** Telegram: @al4i
 
 
 
