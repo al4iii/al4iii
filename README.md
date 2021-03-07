@@ -8,8 +8,8 @@
   *![JS](https://img.shields.io/badge/-JS-yellow?style=for-the-badle&logo=JavaScript)*
   *![React](https://img.shields.io/badge/-React-blue?style=for-the-badle&logo=react)*
   *![Redux](https://img.shields.io/badge/-Redux-brightgreen?style=for-the-badle&logo=redux)*
-  *![Rest_API](https://img.shields.io/badge/-Rest_API-brightgreen?style=for-the-badle&logo=restapi)*
-  *![github](https://img.shields.io/badge/-github-red?style=for-the-badle&logo=git)*
+  *![Rest_API](https://img.shields.io/badge/-Rest_API-red?style=for-the-badle&logo=restapi)*
+  *![github](https://img.shields.io/badge/-github-black?style=for-the-badle&logo=git)*
 
 #### 💬 Ask me about:
 *I'm 37 years old & I'm from Mogilev, Belarus. I've been studying frond-end since September 2020. I am currently studying the React library and I think it is a wonderful library. I like it!) If you want to offer me cooperation, please write to me, because I need a job.*
