@@ -1,5 +1,5 @@
 ### Hi there 👋
-### My name is Aleksandr Danilin. I'm a beginner Frond-end developer from Mogilev, Belarus.
+#### My name is Aleksandr Danilin. I'm a beginner Frond-end developer from Mogilev, Belarus.
 
 #### 🌱 I’m currently learning Languages and Technologies
 ![HTML5](https://img.shields.io/badge/-HTML5%20-blue?style=for-the-badle&logo=html5)
