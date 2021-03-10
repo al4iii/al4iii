@@ -16,6 +16,8 @@
 
 #### 🔭 I’m currently:
 *studying react and writing an application social network using this library*  [social_network](https://al4iii.github.io/social_network/)
+*Email: free@samuraijs.com*
+*Password: free*
 
 *👯 I’m looking to collaborate with companies using React & redux in the position of junior Front-end.*
 
