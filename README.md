@@ -14,6 +14,9 @@
 #### 💬 Ask me about:
 *I'm 37 years old & I'm from Mogilev, Belarus. I've been studying frond-end since September 2020. I am currently studying the React library and I think it is a wonderful library. I like it!) If you want to offer me cooperation, please write to me, because I need a job.*
 
+#### 🔭 I’m currently:
+*studying react and writing an application social network using this library *  ![social_network](https://al4iii.github.io/social_network/)
+
 *👯 I’m looking to collaborate with companies using React & redux in the position of junior Front-end.*
 
 #### 📫 How to reach me:
@@ -25,7 +28,7 @@
 
 
 <!--
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
