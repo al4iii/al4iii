@@ -19,9 +19,9 @@
 
 *This is the login / password for the test account:*
 
-*Email: free@samuraijs.com*
+#### Email: *free@samuraijs.com*
 
-*Password: free*
+#### Password: *free*
 
 *👯 I’m looking to collaborate with companies using React & redux in the position of junior Front-end.*
 
