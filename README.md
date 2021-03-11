@@ -12,7 +12,7 @@
   *![github](https://img.shields.io/badge/-github-black?style=for-the-badle&logo=git)*
 
 #### 💬 Ask me about:
-*I'm 37 years old & I'm from Mogilev, Belarus. I've been studying frond-end since September 2020. I am currently studying the React library and I think it is a wonderful library. I like it!) You can also check out my JS learning projects in my repositories.If you want to offer me cooperation, please write to me, because I need a job.*
+*I'm 37 years old & I'm from Mogilev, Belarus. I've been studying frond-end since September 2020. I am currently studying the React library and I think it is a cool library. I like it!) You can also check out my JS learning projects in my repositories.If you want to offer me cooperation, please write to me, because I need a job.*
 
 #### 🔭 I’m currently:
 *studying **React & redux** and writing an application social network using this library*  [social network](https://al4iii.github.io/social-network/)
@@ -23,7 +23,7 @@
 
 #### Password: *free*
 
-*👯 I’m looking to collaborate with companies using React & redux in the position of junior Front-end.*
+*👯 I'm looking for company to collaborate with using React & redux in the position of junior Front-end.*
 
 #### 📫 How to reach me:
 *Mail me:* **al4icrux@gmail.com**
