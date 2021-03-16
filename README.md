@@ -7,6 +7,7 @@
   *![CSS](https://img.shields.io/badge/-CSS3-orange?style=for-the-badle&logo=css3)*
   *![JS](https://img.shields.io/badge/-JS-yellow?style=for-the-badle&logo=JavaScript)*
   *![React](https://img.shields.io/badge/-React-blue?style=for-the-badle&logo=react)*
+  *![NodeJS](https://img.shields.io/badge/-NodeJS-blue?style=for-the-badle&logo=NodeJS)*
   *![Redux](https://img.shields.io/badge/-Redux-brightgreen?style=for-the-badle&logo=redux)*
   *![Rest_API](https://img.shields.io/badge/-Rest_API-red?style=for-the-badle&logo=restapi)*
   *![github](https://img.shields.io/badge/-github-black?style=for-the-badle&logo=git)*
