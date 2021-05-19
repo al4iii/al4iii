@@ -17,10 +17,10 @@
 *I'm 37 years old & I'm from Mogilev, Belarus. I've been studying frond-end since September 2020. I am currently studying the React library and I think it is a cool library. I like it!) You can also check out my JS learning projects in my repositories.If you want to offer me cooperation, please write to me, because I need a job.*
 
 #### 🔭 I’m currently:
-*studying **React & redux** and writing an application social network using this library*  
-[Github-search](https://al4iii.github.io/github-search/)
-[To Do List](https://al4iii.github.io/test-task/) 
-[social network](https://al4iii.github.io/app-network/#/profile)
+*studying **React & redux** and writing an several application using this library*   
+#### [Github-search](https://al4iii.github.io/github-search/)
+#### [To Do List](https://al4iii.github.io/test-task/)
+#### [Social network](https://al4iii.github.io/app-network/#/profile)
 *This is the login / password for the test account:*
 
 #### Email: *free@samuraijs.com*
