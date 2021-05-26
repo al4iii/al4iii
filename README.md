@@ -14,7 +14,7 @@
    *![Axios](https://img.shields.io/badge/-Axios-red?style=for-the-badle&logo=Axios)*
 
 #### 💬 Ask me about:
-*I'm 37 years old & I'm from Mogilev, Belarus. I've been studying frond-end since September 2020. I am currently studying the React library and I think it is a cool library. I like it!) You can also check out my JS learning projects in my repositories.If you want to offer me cooperation, please write to me, because I need a job.*
+*I'm 37 years old & I'm from Mogilev, Belarus. I've been studying frond-end since September 2020. I am currently studying the React library and I think it is a cool library. I like it!) You can also check out my JS learning projects in my repositories.*
 
 #### 🔭 I’m currently:
 *studying **React & redux** and writing an several application using this library*   
